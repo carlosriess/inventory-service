@@ -1,0 +1,2 @@
+insert into `inventory-service`.`inventory` (`id`,`skuCode`,`stock`) values ('1','IPHONE_12_BLACK','100');
+insert into `inventory-service`.`inventory` (`id`,`skuCode`,`stock`) values ('2','IPHONE_1_GREY','0');
